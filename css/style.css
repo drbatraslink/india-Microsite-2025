@@ -108,6 +108,9 @@ a{text-decoration:none}
 .banner_content h2{color:#212121;font-weight:500;font-size:30px;line-height:normal;margin-bottom:5px}
 .banner_content h3{color:#212121;font-weight:500;font-size:21px;line-height:normal;margin-bottom:10px}
 .banner_content p{font-size:16px;color:#212121;font-weight:300;margin-bottom:0}
+.banner_rating_cls_new{
+	width: 180px;
+}
 }
 @media(max-width:1024px){
 .bg_banner{background:url(../images/bg_banner_img.webp) bottom center no-repeat}
@@ -129,6 +132,9 @@ a{text-decoration:none}
 .banner_content p{font-size: 15px;color:#212121;font-weight:300;margin-bottom:0}
 .img_banner_div{padding:0}
 .img_banner_div img{margin-top: -75px;}
+.banner_rating_cls_new{
+	width: 135px;
+}
 }
 @media(max-width:500px){
 .bg_banner{background:url(../images/bg_banner_img_mob.webp) left bottom no-repeat; background-size: cover;}
@@ -136,7 +142,7 @@ a{text-decoration:none}
 .banner_content h2{color:#212121;font-weight:500;font-size: 21px;line-height:normal;margin-bottom:5px}
 .banner_content p{font-size: 10px;color:#212121;font-weight:300;margin-bottom:0}
 .img_banner_div{padding:0}
-.img_banner_div img{margin-top: -35px;}
+.img_banner_div img{margin-top: -75px;}
 }
 @media(max-width:400px){
 .bg_banner{background:url(../images/bg_banner_img_mob.webp) left bottom no-repeat; background-size: cover;}
@@ -144,12 +150,12 @@ a{text-decoration:none}
 .banner_content h2{color:#212121;font-weight:500;font-size: 21px;line-height:normal;margin-bottom:0}
 .banner_content p{font-size: 10px;color:#212121;font-weight:300;margin-bottom:0}
 .img_banner_div{padding:0}
-.img_banner_div img{margin-top: -15px;}
+.img_banner_div img{margin-top: -65px;}
 }
 /*==========================================*/
 /* Form Form css*/
 /*==========================================*/
-.form_section_div{margin-top:-40px;z-index:1;position:relative}
+.form_section_div{margin-top:-25px;z-index:1;position:relative}
 .form_custom_bg_testmonilas{background:#fff;padding:20px;box-shadow:0 4px 15px rgb(175 173 173 / 18%)}
 .form_custom_heading_testmonilas{margin-bottom:0;font-size:28px;text-align:center;font-weight:400;color:#212121;line-height:normal}
 .form_custom_heading_testmonilas span{font-weight:600;color:#187fc3}
@@ -326,7 +332,8 @@ ul.nptabbs li.active img{filter:brightness(0) invert(1)}
 .tabb_content h3{margin-top:10px}
 .tabb_content ul{margin-bottom:0}
 ul.nptabbs{display:none}
-.tabb_drawer_heading{background:rgb(255 255 255 / 80%);border-radius:6px;color:#3096d3;font-size:18px;font-weight:600;border:1px solid #d2d2d2;margin:5px 0;padding:5px 20px;display:block;cursor:pointer;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.tabb_drawer_heading{background:rgb(255 255 255 / 80%);border-radius:6px;color:#3096d3;font-size:16px;font-weight:600;border:1px solid #d2d2d2;margin:5px 0;padding:5px 20px;display:block;cursor:pointer;-webkit-touch-callout:none;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+.tabb_drawer_heading img{width: 40px; margin-right: 5px}
 .d_active{background:#3096d3;color:#fff}
 .d_active img{filter:brightness(0) invert(1)}
 .tabb_container{box-shadow:none;border:none;background:0 0;margin-top:0}
@@ -339,6 +346,10 @@ ul.nptabbs{display:none}
 @media screen and (max-width:1680px){
 	.customised_tab_container{
 	padding: 0px 15px;
+}
+
+.tabb_content h4 {
+	font-size: 18px;
 }
 }
 
