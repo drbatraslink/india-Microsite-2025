@@ -331,14 +331,14 @@ ul.nptabbs{display:none}
 .d_active img{filter:brightness(0) invert(1)}
 .tabb_container{box-shadow:none;border:none;background:0 0;margin-top:0}
 .tabb_content{margin-bottom:20px;border:1px solid #fff;background:rgb(255 255 255 / 60%)}
-.tabb_content img{width: 60%;}
+.tabb_content img{width: 100%;}
 }
 .customised_tab_container{
 	padding: 0 70px;
 }
 @media screen and (max-width:1680px){
 	.customised_tab_container{
-	padding: 0px 0px;
+	padding: 0px 15px;
 }
 }
 
