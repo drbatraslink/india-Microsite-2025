@@ -105,7 +105,7 @@ a{text-decoration:none}
 /*.banner_content p{font-size:18px;color:#212121;font-weight:400;margin-bottom:0}*/
 .banner_facts{padding-left:0;margin:10px 0;color:#393939;font-size:14px;line-height:normal;text-align:left}
 .banner_facts p{margin-bottom:10px;font-weight:400;color:#393939;position:relative;padding-left:20px;font-size: 16px}
-.banner_facts p::before{content:'✔';color:#0073ae;position:absolute;left:0;top:0}
+.banner_facts p::before{content:'•';color:#0073ae;position:absolute;left:0;top:0}
 .banner_facts p strong{font-weight:600}
 .banner_rating_cls_new{
 	width: 180px;
