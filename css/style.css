@@ -104,7 +104,7 @@ a{text-decoration:none}
 .banner_content h2{color:#212121;font-weight:500;font-size:24px;line-height:normal;margin-bottom:10px}
 /*.banner_content p{font-size:18px;color:#212121;font-weight:400;margin-bottom:0}*/
 .banner_facts{padding-left:0;margin:10px 0;color:#393939;font-size:14px;line-height:normal;text-align:left}
-.banner_facts p{margin-bottom:10px;font-weight:400;color:#393939;position:relative;padding-left:20px;font-size: 16px}
+.banner_facts p{margin-bottom:10px;font-weight:400;color:#393939;position:relative;padding-left:15px;font-size: 16px}
 .banner_facts p::before{content:'•';color:#0073ae;position:absolute;left:0;top:0}
 .banner_facts p strong{font-weight:600}
 .banner_rating_cls_new{
@@ -116,7 +116,7 @@ a{text-decoration:none}
 .banner_content h2{color:#212121;font-weight:500;font-size: 21px;line-height:normal;margin-bottom: 0px;}
 /*.banner_content p{font-size:16px;color:#212121;font-weight:300;margin-bottom:0}*/
 .banner_facts{padding-left:0;margin: 9px 0;color:#393939;font-size:12px;line-height:normal;text-align:left}
-.banner_facts p{margin-bottom: 8px;font-weight:400;color:#393939;position:relative;padding-left:20px;font-size: 14px}
+.banner_facts p{margin-bottom: 8px;font-weight:400;color:#393939;position:relative;padding-left:15px;font-size: 14px}
 .banner_rating_cls_new{
 	width: 150px;
 }
@@ -141,7 +141,7 @@ a{text-decoration:none}
 .banner_content h2{color:#212121;font-weight:500;font-size:18px;line-height:normal;margin-bottom:10px}
 /*.banner_content p{font-size: 15px;color:#212121;font-weight:300;margin-bottom:0}*/
 .banner_facts{padding-left:0;margin: 9px 0;color:#393939;font-size:12px;line-height:normal;text-align:left}
-.banner_facts p{margin-bottom: 8px;font-weight:400;color:#393939;position:relative;padding-left:15px;font-size: 12px}
+.banner_facts p{margin-bottom: 8px;font-weight:400;color:#393939;position:relative;padding-left:10px;font-size: 12px}
 .img_banner_div{padding:0}
 .img_banner_div img{margin-top: -35px;}
 .banner_rating_cls_new{
