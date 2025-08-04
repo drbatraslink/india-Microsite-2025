@@ -109,6 +109,7 @@ a{text-decoration:none}
 .banner_facts p strong{font-weight:600}
 .banner_rating_cls_new{
 	width: 180px;
+	margin-left: -10px;
 }
 @media(max-width:1680px){
 /*.banner_content h1{font-size:55px;font-weight:700;text-transform:uppercase;color:#0073ae;margin-bottom:0}*/
