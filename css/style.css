@@ -121,6 +121,35 @@ a{text-decoration:none}
 	width: 150px;
 }
 }
+@media(max-width:1480px){
+
+	    .banner_content h1 {
+        color: #0073ae;
+        font-weight: 600;
+        font-size: 26px;
+        line-height: normal;
+        margin-bottom: 5px;
+    }
+
+    .banner_content h2 {
+        color: #212121;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: normal;
+        margin-bottom: 0px;
+    }
+	.banner_facts {
+        padding-left: 0;
+        margin: 9px 0;
+        color: #393939;
+        font-size: 12px;
+        line-height: normal;
+        text-align: left;
+    }
+
+
+}
+
 @media(max-width:1024px){
 .bg_banner{background:url(../images/bg_banner_img.webp) bottom center no-repeat}
 /*.banner_content h1{font-size:42px;font-weight:700;text-transform:uppercase;color:#0073ae;margin-bottom:0}*/
@@ -189,12 +218,13 @@ a{text-decoration:none}
 }
 @media(max-width:1400px){
 .btn_custom_testmonilas{font-size:14px}
+.form_section_div{margin-top:30px}
 }
 @media(max-width:1200px){
 .form_custom_heading_testmonilas{margin-bottom:0;font-size:21px;text-align:center;font-weight:400;color:#212121;line-height:normal}
 .btn_custom_testmonilas{font-size:16px;margin-top:10px}
 .testmonilas_form_custom .form-group{margin-bottom:10px}
-.form_section_div{margin-top:30px}
+
 }
 @media(max-width:860px){
 .form_custom_heading_testmonilas{margin-bottom:0;font-size:26px;text-align:center;font-weight:400;color:#212121;line-height:normal}
