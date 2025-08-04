@@ -101,7 +101,7 @@ a{text-decoration:none}
 .bg_banner{background:url(../images/bg_banner_img.webp) left bottom no-repeat}
 /*.banner_content h1{font-size:75px;font-weight:700;text-transform:uppercase;color:#0073ae;margin-bottom:0}*/
 .banner_content h1{color:#0073ae;font-weight:600;font-size:36px;line-height:normal;margin-bottom:10px}
-.banner_content h2{color:#212121;font-weight:500;font-size:24px;line-height:normal;margin-bottom:10px}
+.banner_content h2{color:#212121;font-weight:500;font-size:26px;line-height:normal;margin-bottom:10px}
 /*.banner_content p{font-size:18px;color:#212121;font-weight:400;margin-bottom:0}*/
 .banner_facts{padding-left:0;margin:10px 0;color:#393939;font-size:14px;line-height:normal;text-align:left}
 .banner_facts p{margin-bottom:10px;font-weight:400;color:#393939;position:relative;padding-left:15px;font-size: 16px}
